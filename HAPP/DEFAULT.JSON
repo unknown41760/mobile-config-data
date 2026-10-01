@@ -12,7 +12,7 @@
   "DomesticDNSIP": "77.88.8.8",
   "Geoipurl": "https://cdn.jsdelivr.net/gh/unknown41760/mobile-config-data@release/geoip.dat",
   "Geositeurl": "https://cdn.jsdelivr.net/gh/unknown41760/mobile-config-data@release/geosite.dat",
-  "LastUpdated": "1790589295",
+  "LastUpdated": "1790849676",
   "DnsHosts": {
     "lkfl2.nalog.ru": "213.24.64.175",
     "lknpd.nalog.ru": "213.24.64.181"
